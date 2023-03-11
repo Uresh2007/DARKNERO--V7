@@ -17,7 +17,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.alivepic = `https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg `
 global.owner = ['94770645791'] //ur owner number
-global.ownername = "Uresh Theekshana" //ur owner name
+global.ownername = "~🆄 †hεεκšhαηα🖤" //ur owner name
 global.ytname = "YT: CHUTTA" //ur yt chanel name
 global.socialm = "Dark Nero" //ur github or insta name
 global.location = "Sri Lanka, Gampaha, Kurunegala" //ur location
@@ -25,8 +25,8 @@ global.location = "Sri Lanka, Gampaha, Kurunegala" //ur location
 //bot bomdy 
 global.ownernomer = "94770645791" //ur number
 global.premium = ['94770645791'] //ur premium number
-global.botname = 'DarkNero Bot MD V7' //ur bot name
-global.linkz = "https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX" //your theme url which will be displayed on whatsapp
+global.botname = 'ᵘʳᵉˢʰ 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗢𝗙 𝐋𝐲𝐫𝐢𝐜𝐬 𝐖𝐌@official Ｍｕｓｉｃ..😈' //ur bot name
+global.linkz = "https://chat.whatsapp.com/IcIZf0CEikK1h3H5hzAQfm" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/@lyricswm" //ur website to be displayed
 global.botscript = 'https://github.com/Uresh2007/DARKNERO--V7' //script link
 global.themeemoji = "🐨" //ur theme emoji
